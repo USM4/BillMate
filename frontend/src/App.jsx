@@ -7,10 +7,9 @@ import './App.css'
 function App() {
 
   return (
-    <div className="bg-black text-sky-600">
-      hahhahaha
+    
       <Navbar/>
-    </div>
+    
     // <Router>
       // <Routes>
         /* <Route path='/' element={<Home/>}/>
