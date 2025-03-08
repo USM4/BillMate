@@ -91,3 +91,26 @@
 * ✅ Bill Tracking (List of upcoming & past payments)
 * ✅ Bill Splitting Calculator (For shared expenses)
 * ✅ Auto-Payment Support (Manual or auto-debit setup)
+
+the global example how to use 
+
+
+ <button class="bg-primary text-white hover:bg-primary-dark px-4 py-2 rounded">
+  Primary Action
+</button>
+
+        <button class="bg-secondary text-white hover:bg-secondary-dark px-4 py-2 rounded">
+  Secondary Action
+</button>
+
+        <div class="bg-background text-text-primary p-6 rounded-lg">
+  Welcome to the app!
+</div>
+
+        <div class="bg-background-paper text-text-secondary p-4 rounded-lg">
+  This is a card!
+</div>
+
+        <div class="bg-error text-white p-4 rounded-lg">
+  Something went wrong!
+</div>

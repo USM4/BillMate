@@ -8,17 +8,9 @@ function App() {
 
   return (
     
-      <Navbar/>
-    
-    // <Router>
-      // <Routes>
-        /* <Route path='/' element={<Home/>}/>
-        <Route path='/projects' element={<><Navbar/><Projects/></>} />
-        <Route path='/links' element={<><Navbar/><Links/></>} />
-        <Route path='/about' element={<><Navbar/><About/></>} /> */
-
-      // </Routes>
-    // </Router>
+     <>
+       <Navbar/>
+     </>
   );
 }
 
