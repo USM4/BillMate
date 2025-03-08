@@ -91,7 +91,7 @@ function Navbar() {
 
   return (
     <div className="bg-green-500">
-
+      KIOIOIOIO
     </div>
     // <motion.nav
     //   initial="hidden"
